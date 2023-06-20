@@ -68,4 +68,29 @@ console.log("App")
 console.log("App")
 console.log("App")
 console.log("App")
-console.log("App")
+
+
+for(let i =0 ; i <= 100; i++) {
+    console.log("App")
+}
+for(let i =0 ; i <= 100; i++) {
+    console.log("App")
+}
+for(let i =0 ; i <= 100; i++) {
+    console.log("App")
+}
+for(let i =0 ; i <= 100; i++) {
+    console.log("App")
+}
+for(let i =0 ; i <= 100; i++) {
+    console.log("App")
+}
+for(let i =0 ; i <= 100; i++) {
+    console.log("App")
+}
+for(let i =0 ; i <= 100; i++) {
+    console.log("App")
+}
+for(let i =0 ; i <= 100; i++) {
+    console.log("App")
+}
